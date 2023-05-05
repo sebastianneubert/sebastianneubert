@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @sebastianneubert
-- 📫 How to reach me ...
+## About me
+
+ 💻 Currently working for a fin tech which is doing web3 stuff to disrupt the financial banking system soon. 
+
+ 📬 You have a good change to meet me in this area:
 
 <!---
 sebastianneubert/sebastianneubert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
