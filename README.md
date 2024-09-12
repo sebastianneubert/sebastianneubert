@@ -1,13 +1,68 @@
-## About me
+# About me
 
  💻 Currently working for a fin tech which is doing web3 stuff to disrupt the financial banking system soon. 
 
- 📬 You have a good change to meet me in this area:
+## Skillset overview
 
-<!---
-sebastianneubert/sebastianneubert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```mermaid
+mindmap
+  root((Sebastian Neubert))
+    Technical Skills
+      Web Development
+        id1))PHP(( 
+        id2))JavaScript/TypeScript(( 
+        id3)Python(
+        id4)Shell/Bash(
+        id5)Solidity(
+        id6)Go Golang(
+      Testing Tools
+        id7))Cypress.io(( 
+        id8))Codeception((
+        id9))PHPUnit((
+        id10))Jest/Vitest((
+        id11))Postman((
+      Automation & CI/CD
+        id12))Jenkins((
+        id13))Docker((
+        id14))AWS Lambda((
+        id15))GitHub Actions((
+      Databases
+        SQL
+          MySQL
+          MariaDB
+          PostgreSQL
+        NoSQL
+          MongoDB
+          Redis
+          Kafka
+    Agile & Leadership
+      id21))Agile Scrum((
+      id22))Cross-functional Teams((
+      id23))Mentoring((
+      id24))Release Management((
+    Quality Assurance
+      id25))End-to-End Testing((
+      id26))Functional Testing((
+      id27)Performance Testing(
+      id28)Security Scanning(
+      id29)Automation Pipelines(
+      id30))Test Automation Frameworks((
+    Soft Skills
+      id31))Collaboration((
+      id32))Problem-Solving((
+      id33))Communication((
+      id34))Innovation((
+      id35)Risk-based Decision Making(
+    Certifications
+      id36))ISTQB Certified Tester(
+        id37))Foundation Level((
+        id38))Advanced Level - Technical Test Analyst((
+      id39)ITIL v3 FOUNDATION(
+```
+
+## Location - full remote
+
+📬 You have a good change to meet me in this area:
 
 ```geojson
 {
@@ -58,68 +113,4 @@ You can click the Preview link to take a look at your changes.
     }
   ]
 }
-```
-
-
-```mermaid
-mindmap
-  root((Sebastian Neubert))
-    Technical Skills
-      Web Development
-        PHP
-          over 10 years
-        JavaScript/TypeScript
-          over 5 years
-        Python
-          over 2 years
-        Shell/Bash
-          over 5 years
-        Solidity
-          1 year
-        Go (Golang)
-          learning
-      Testing Tools
-        Cypress.io
-        Codeception
-        PHPUnit
-        Jest/Vitest
-        Postman
-      Automation + CI/CD
-        Gitlab
-        Jenkins
-        Container Registries
-        AWS Lambda
-        GitHub
-      Databases
-        SQL
-          MySQL
-          MariaDB
-          PostgreSQL
-        NoSQL
-          MongoDB
-          Redis
-          Kafka
-    Agile + Leadership
-      Agile Scrum
-      Cross-functional Teams
-      Mentoring
-      Release Management
-    Quality Assurance
-      End-to-End Testing
-      Functional Testing
-      Performance Testing
-      Security Scanning
-      Automation Pipelines
-      Test Automation Frameworks
-    Soft Skills
-      Collaboration
-      Problem-Solving
-      Communication
-      Innovation
-      Risk-based Decision Making
-    Certifications
-      ISTQB Certified Tester
-        Foundation Level
-        Advanced Level - Technical Test Analyst
-      ITIL v3 FOUNDATION
 ```
