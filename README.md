@@ -59,3 +59,67 @@ You can click the Preview link to take a look at your changes.
   ]
 }
 ```
+
+
+```mermaid
+mindmap
+  root((Sebastian Neubert))
+    Technical Skills
+      Web Development
+        PHP
+          over 10 years
+        JavaScript/TypeScript
+          over 5 years
+        Python
+          over 2 years
+        Shell/Bash
+          over 5 years
+        Solidity
+          1 year
+        Go (Golang)
+          learning
+      Testing Tools
+        Cypress.io
+        Codeception
+        PHPUnit
+        Jest/Vitest
+        Postman
+      Automation + CI/CD
+        Gitlab
+        Jenkins
+        Container Registries
+        AWS Lambda
+        GitHub
+      Databases
+        SQL
+          MySQL
+          MariaDB
+          PostgreSQL
+        NoSQL
+          MongoDB
+          Redis
+          Kafka
+    Agile + Leadership
+      Agile Scrum
+      Cross-functional Teams
+      Mentoring
+      Release Management
+    Quality Assurance
+      End-to-End Testing
+      Functional Testing
+      Performance Testing
+      Security Scanning
+      Automation Pipelines
+      Test Automation Frameworks
+    Soft Skills
+      Collaboration
+      Problem-Solving
+      Communication
+      Innovation
+      Risk-based Decision Making
+    Certifications
+      ISTQB Certified Tester
+        Foundation Level
+        Advanced Level - Technical Test Analyst
+      ITIL v3 FOUNDATION
+```
