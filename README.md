@@ -1,32 +1,79 @@
 # About me
 
- 💻 Currently working for a fin tech which is doing web3 stuff to disrupt the financial banking system soon. 
+Senior Engineer and generalist with over a decade of web engineering experience, specializing in Site Reliability, Observability, and DevOps—designing resilient distributed systems, building automation and quality pipelines, and driving risk-based, pragmatic engineering decisions that balance reliability, security, and business value.
 
 ## Skillset overview
 
 ```mermaid
 mindmap
   root((Sebastian Neubert))
+    Site Reliability + DevOps
+      Reliability Engineering
+        SLIs / SLOs / SLAs
+        Error Budgets
+        Incident Response
+        Postmortems
+        Production Readiness Reviews
+      Observability
+        Metrics
+        Logging
+        Distributed Tracing
+        Prometheus
+        Grafana
+        Loki
+        Alerting Strategies
+        Monitoring Dashboards
+      Cloud + Infrastructure
+        AWS
+        Infrastructure as Code
+          Terraform
+        Kubernetes
+        GitOps
+        Container Orchestration
+        Microservices Architecture
+        REST APIs
+        GraphQL
+        Server-side Ad Insertion
+      Security + Compliance
+        Security Audits
+        Dependency Scanning
+        License Scanning
+        Compliance Pipelines
+        Risk Workshops
+
     Technical Skills
       Web Development
-        PHP
-        JavaScript/TypeScript
+        PHP (10+ years)
+        JavaScript/TypeScript (5+ years)
         Python
         Shell/Bash
         Solidity
-        Go (Golang)
+        Go (learning mindset)
+        Symfony
+        Zend Framework
+        TYPO3
+      Architecture
+        Distributed Systems
+        Event-driven Systems
+        API-driven Systems
+        Blockchain FinTech
+        Web2 ↔ Web3 Integration
       Testing Tools
         Cypress.io
-        Codeception
-        PHPUnit
+        Codeception (Core Contributor)
+        PHPUnit (8+ years)
         Jest/Vitest
-        Postman
+        Postman (5+ years)
+        JMeter
       Automation + CI/CD
-        (Gitlab)
+        GitLab CI
+        GitHub Actions
         Jenkins
         Docker
         AWS Lambda
-        GitHub Actions
+        Pipeline Optimization
+        Parallelization Strategies
+        Quality Gates
       Databases
         SQL
           MySQL
@@ -35,25 +82,45 @@ mindmap
         NoSQL
           MongoDB
           Redis
+        Streaming
           Kafka
-    Agile + Leadership
-      Agile Scrum
-      Cross-functional Teams
-      Mentoring
-      Release Management
-    Quality Assurance
+
+    Quality Engineering
       End-to-End Testing
       Functional Testing
-      Performance Testing
-      Security Scanning
-      Automation Pipelines
-      Test Automation Frameworks
+      Integration Testing
+      Performance + Load Testing
+      Security Testing
+      Risk-based Testing
+      Lean Testing Approaches
+      Test Strategy Consulting
+      Test Environment Engineering
+      Automation Framework Design
+      Exploratory Testing Workshops
+
+    Agile + Leadership
+      Agile Scrum
+      Agile Transformation
+      Cross-functional Collaboration
+      Technical Mentoring
+      Team Leadership (2+ reports)
+      Release Management
+      Moderation + Retrospectives
+      Stakeholder Communication
+      Quality Advocacy
+
     Soft Skills
-      Collaboration
+      Reliability Mindset
+      Systems Thinking
+      Detail-Oriented
       Problem-Solving
-      Communication
-      Innovation
       Risk-based Decision Making
+      Pragmatism
+      Curiosity
+      Innovation
+      Ownership
+      Calm in Incidents
+
     Certifications
       ISTQB Certified Tester
         Foundation Level
