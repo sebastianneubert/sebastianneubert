@@ -2,9 +2,17 @@
 
 Senior Engineer and generalist with over a decade of web engineering experience, specializing in Site Reliability, Observability, and DevOps—designing resilient distributed systems, building automation and quality pipelines, and driving risk-based, pragmatic engineering decisions that balance reliability, security, and business value.
 
-## Skillset overview
-
 ```mermaid
+## Skillset overview
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "fontFamily": "Inter, Segoe UI, Arial",
+    "primaryTextColor": "#E6EDF3",
+    "lineColor": "#8B949E"
+  }
+}}%%
+
 mindmap
   root((Sebastian Neubert))
     Site Reliability + DevOps
@@ -25,30 +33,27 @@ mindmap
         Monitoring Dashboards
       Cloud + Infrastructure
         AWS
-        Infrastructure as Code
-          Terraform
+        Terraform
         Kubernetes
         GitOps
         Container Orchestration
         Microservices Architecture
         REST APIs
         GraphQL
-        Server-side Ad Insertion
       Security + Compliance
         Security Audits
         Dependency Scanning
-        License Scanning
         Compliance Pipelines
         Risk Workshops
 
     Technical Skills
       Web Development
-        PHP (10+ years)
-        JavaScript/TypeScript (5+ years)
+        PHP
+        JavaScript/TypeScript
         Python
         Shell/Bash
         Solidity
-        Go (learning mindset)
+        Go
         Symfony
         Zend Framework
         TYPO3
@@ -57,13 +62,12 @@ mindmap
         Event-driven Systems
         API-driven Systems
         Blockchain FinTech
-        Web2 ↔ Web3 Integration
       Testing Tools
         Cypress.io
-        Codeception (Core Contributor)
-        PHPUnit (8+ years)
+        Codeception
+        PHPUnit
         Jest/Vitest
-        Postman (5+ years)
+        Postman
         JMeter
       Automation + CI/CD
         GitLab CI
@@ -71,13 +75,10 @@ mindmap
         Jenkins
         Docker
         AWS Lambda
-        Pipeline Optimization
-        Parallelization Strategies
         Quality Gates
       Databases
         SQL
           MySQL
-          MariaDB
           PostgreSQL
         NoSQL
           MongoDB
@@ -87,45 +88,48 @@ mindmap
 
     Quality Engineering
       End-to-End Testing
-      Functional Testing
       Integration Testing
-      Performance + Load Testing
+      Performance Testing
       Security Testing
       Risk-based Testing
-      Lean Testing Approaches
-      Test Strategy Consulting
-      Test Environment Engineering
       Automation Framework Design
-      Exploratory Testing Workshops
+      Test Strategy Consulting
 
     Agile + Leadership
       Agile Scrum
-      Agile Transformation
       Cross-functional Collaboration
       Technical Mentoring
-      Team Leadership (2+ reports)
+      Team Leadership
       Release Management
-      Moderation + Retrospectives
-      Stakeholder Communication
-      Quality Advocacy
 
     Soft Skills
-      Reliability Mindset
       Systems Thinking
-      Detail-Oriented
-      Problem-Solving
-      Risk-based Decision Making
-      Pragmatism
-      Curiosity
-      Innovation
+      Reliability Mindset
       Ownership
+      Problem-Solving
+      Pragmatism
       Calm in Incidents
 
     Certifications
       ISTQB Certified Tester
-        Foundation Level
-        Advanced Level - Technical Test Analyst
-      ITIL v3 FOUNDATION
+      ITIL v3 Foundation
+
+%% Styling for dark mode contrast
+classDef rootStyle fill:#2563EB,stroke:#1E40AF,color:#FFFFFF,stroke-width:2px;
+classDef sreStyle fill:#0F766E,stroke:#115E59,color:#FFFFFF;
+classDef techStyle fill:#7C3AED,stroke:#5B21B6,color:#FFFFFF;
+classDef qaStyle fill:#9333EA,stroke:#6B21A8,color:#FFFFFF;
+classDef agileStyle fill:#EA580C,stroke:#C2410C,color:#FFFFFF;
+classDef softStyle fill:#0891B2,stroke:#0E7490,color:#FFFFFF;
+classDef certStyle fill:#374151,stroke:#1F2937,color:#F9FAFB;
+
+class Sebastian Neubert rootStyle;
+class "Site Reliability + DevOps" sreStyle;
+class "Technical Skills" techStyle;
+class "Quality Engineering" qaStyle;
+class "Agile + Leadership" agileStyle;
+class "Soft Skills" softStyle;
+class "Certifications" certStyle;
 ```
 
 ## Location - full remote
