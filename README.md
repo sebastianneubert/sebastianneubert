@@ -2,8 +2,9 @@
 
 Senior Engineer and generalist with over a decade of web engineering experience, specializing in Site Reliability, Observability, and DevOps—designing resilient distributed systems, building automation and quality pipelines, and driving risk-based, pragmatic engineering decisions that balance reliability, security, and business value.
 
-```mermaid
 ## Skillset overview
+
+```mermaid
 %%{init: {
   "theme": "base",
   "themeVariables": {
