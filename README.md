@@ -5,15 +5,6 @@ Senior Engineer and generalist with over a decade of web engineering experience,
 ## Skillset overview
 
 ```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "Inter, Segoe UI, Arial",
-    "primaryTextColor": "#E6EDF3",
-    "lineColor": "#8B949E"
-  }
-}}%%
-
 mindmap
   root((Sebastian Neubert))
     Site Reliability + DevOps
@@ -114,23 +105,6 @@ mindmap
     Certifications
       ISTQB Certified Tester
       ITIL v3 Foundation
-
-%% Styling for dark mode contrast
-classDef rootStyle fill:#2563EB,stroke:#1E40AF,color:#FFFFFF,stroke-width:2px;
-classDef sreStyle fill:#0F766E,stroke:#115E59,color:#FFFFFF;
-classDef techStyle fill:#7C3AED,stroke:#5B21B6,color:#FFFFFF;
-classDef qaStyle fill:#9333EA,stroke:#6B21A8,color:#FFFFFF;
-classDef agileStyle fill:#EA580C,stroke:#C2410C,color:#FFFFFF;
-classDef softStyle fill:#0891B2,stroke:#0E7490,color:#FFFFFF;
-classDef certStyle fill:#374151,stroke:#1F2937,color:#F9FAFB;
-
-class Sebastian Neubert rootStyle;
-class "Site Reliability + DevOps" sreStyle;
-class "Technical Skills" techStyle;
-class "Quality Engineering" qaStyle;
-class "Agile + Leadership" agileStyle;
-class "Soft Skills" softStyle;
-class "Certifications" certStyle;
 ```
 
 ## Location - full remote
